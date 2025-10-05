@@ -1,7 +1,5 @@
 ### 💻 Felipe Gabriel Feitosa
 
-**`Dev`**
-
 Estudante de Engenharia de Software | Universidade de Pernambuco (UPE), Garanhuns.
 
   <p align="left">
