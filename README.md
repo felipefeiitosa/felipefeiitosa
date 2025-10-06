@@ -29,8 +29,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
 
 ### 📊Estatísticas
 
-### 📊Estatísticas
-
 <p>
   <img align="left"
     alt="GitHub Stats"
