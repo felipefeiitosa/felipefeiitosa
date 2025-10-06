@@ -33,13 +33,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
   <img align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=felipefeitosa&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=felipefeitosa&show_icons=true&theme=radical&cache_seconds=1"
   />
     
   <img 
     align="left"
     alt="GitHub Top Langs" 
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeitosa&theme=radical&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeitosa&theme=radical&layout=compact&cache_seconds=1"
   />
 </p>
