@@ -3,7 +3,7 @@
 ---
 
 ### 💻 Felipe Gabriel Feitosa
-**Bacharelando em Engenharia de Software (UPE)**
+<span style="color:#FF79C6;">🎓 <em>Bacharelando em Engenharia de Software (UPE)</em></span>
 
 ---
 
