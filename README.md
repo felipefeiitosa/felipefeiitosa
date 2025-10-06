@@ -1,12 +1,10 @@
 <!-- HEADER ANIMADO -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&pause=1000\&color=FF79C6\&width=600\&lines=Ol%C3%A1%2C+eu+sou+Felipe+Feitosa+👋;Estudante+de+Engenharia+de+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&pause=1000\&color=FF79C6\&width=600\&lines=Seja+bem-vindo+%F0%9F%98%89;Ol%C3%A1%2C+eu+sou+Felipe+Feitosa+👋)](https://git.io/typing-svg)
 
 ---
 
 ### 💻 Felipe Gabriel Feitosa
-
-Estudante de Engenharia de Software | Universidade de Pernambuco (UPE), Garanhuns.
 
 ---
 
