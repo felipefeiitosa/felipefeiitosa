@@ -32,12 +32,13 @@
 
 ### 📊 Estatísticas
 
-<p>
-  <img align="left"
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=felipefeiitosa&show_icons=true&theme=radical"
-  />
+<img 
+ align="left"
+ alt="GitHub Top Langs (donut)" 
+ height="200"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeiitosa&theme=radical&layout=donut&langs_count=8"
+/>
+
 
 <img 
  align="left"
