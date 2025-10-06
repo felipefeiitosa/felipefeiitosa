@@ -1,18 +1,8 @@
-<!-- HEADER ANIMADO -->
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&pause=1000\&color=FF79C6\&width=600\&lines=Seja+bem-vindo+%F0%9F%98%89;Ol%C3%A1%2C+eu+sou+Felipe+Feitosa+👋)](https://git.io/typing-svg)
 
 ---
 
 ### 💻 Felipe Gabriel Feitosa
-
----
-
-### 👀 Contador de Visitas
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=felipefeiitosa&label=Visualizações&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
 
 ---
 
@@ -57,9 +47,3 @@
 />
 
 </p>
-
----
-
-### 🐍 Snake Animation (Commits)
-
-![Snake animation](https://github.com/felipefeiitosa/felipefeiitosa/blob/output/github-contribution-grid-snake.svg)
