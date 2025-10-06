@@ -29,17 +29,19 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
 
 ### 📊Estatísticas
 
+### 📊Estatísticas
+
 <p>
   <img align="left"
     alt="GitHub Stats"
     height="200"
-    src="https://github-readme-stats.vercel.app/api?username=felipefeitosa&show_icons=true&theme=radical&cache_seconds=1"
+    src="https://github-readme-stats.vercel.app/api?username=felipefeitosa&show_icons=true&theme=radical&include_all_commits=true&cache_seconds=1"
   />
     
   <img 
     align="left"
     alt="GitHub Top Langs" 
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeitosa&theme=radical&layout=compact&cache_seconds=1"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeitosa&theme=radical&layout=compact&include_all_commits=true&cache_seconds=1"
   />
 </p>
