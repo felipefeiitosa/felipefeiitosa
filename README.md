@@ -1,17 +1,31 @@
+<!-- HEADER ANIMADO -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=26\&pause=1000\&color=FF79C6\&width=600\&lines=Ol%C3%A1%2C+eu+sou+Felipe+Feitosa+👋;Estudante+de+Engenharia+de+Software)](https://git.io/typing-svg)
+
+---
+
 ### 💻 Felipe Gabriel Feitosa
 
 Estudante de Engenharia de Software | Universidade de Pernambuco (UPE), Garanhuns.
 
+---
+
+### 👀 Contador de Visitas
+
 <p align="left">
-  <a href="https://github.com/felipefeiitosa?tab=followers">
-    <img alt="followers"
-      title="Follow me on Github"
-      src="https://custom-icon-badges.demolab.com/github/followers/felipefeiitosa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Seguidores&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=felipefeiitosa&label=Visualizações&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
+
+---
+
+### 🤝 Conecte-se Comigo
+
+<p align="left">
+  <a href="mailto:felipe.feitosa08@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/felipefeiitosa?tab=repositories&sort=stargazers">
-    <img alt="total stars"
-      title="Total stars on GitHub"
-      src="https://custom-icon-badges.demolab.com/github/stars/felipefeiitosa?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Estrelas"/>
+  <a href="https://www.linkedin.com/in/felipe-feitosa" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -19,12 +33,9 @@ Estudante de Engenharia de Software | Universidade de Pernambuco (UPE), Garanhun
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-align="left" 
-alt="Python" 
-width="30px"
-style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="VS Code" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <br/>
 <br/>
@@ -34,8 +45,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left"
+  <img align="left"
     alt="GitHub Stats"
     height="200"
     src="https://github-readme-stats.vercel.app/api?username=felipefeiitosa&show_icons=true&theme=radical"
@@ -45,7 +55,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"
  align="left"
  alt="GitHub Top Langs" 
  height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeiitosa&theme=radical&layout=compact"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeiitosa&theme=radical&layout=donut&cache_seconds=1800"
 />
 
 </p>
+
+---
+
+### 🐍 Snake Animation (Commits)
+
+![Snake animation](https://github.com/felipefeiitosa/felipefeiitosa/blob/output/github-contribution-grid-snake.svg)
