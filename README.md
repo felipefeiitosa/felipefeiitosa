@@ -43,7 +43,8 @@
  align="left"
  alt="GitHub Top Langs" 
  height="200"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeiitosa&theme=radical&layout=donut&cache_seconds=1800"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipefeiitosa&theme=radical&layout=compact&langs_count=8"
 />
+
 
 </p>
