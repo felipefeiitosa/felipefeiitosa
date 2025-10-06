@@ -14,7 +14,7 @@
   <a href="mailto:felipe.feitosa08@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/felipe-feitosa" target="_blank">
+  <a href="https://www.linkedin.com/in/felipe-feitosa-23a27b368/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
