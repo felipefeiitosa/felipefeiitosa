@@ -3,7 +3,8 @@
 ---
 
 ### 💻 Felipe Gabriel Feitosa
-<span style="color:#FF79C6;">🎓 <em>Bacharelando em Engenharia de Software (UPE)</em></span>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF79C6&width=500&lines=🎓+Bacharelando+em+Engenharia+de+Software+(UPE))](https://git.io/typing-svg)
+
 
 ---
 
